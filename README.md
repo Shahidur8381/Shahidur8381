@@ -51,7 +51,7 @@ const shawon = {
 <a href="mailto:shahidur8381@gmail.com">
   <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://www.linkedin.com/in/shahidur8381/">
+<a href="https://www.linkedin.com/in/md-shahidur-rahman-a109362a5/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://t.me/shahidur2903">
@@ -368,7 +368,7 @@ const shawon = {
 
 ### 🌐 Social Media
 
-<a href="https://www.linkedin.com/in/shahidur8381/">
+<a href="https://www.linkedin.com/in/md-shahidur-rahman-a109362a5/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/Shahidur8381">
