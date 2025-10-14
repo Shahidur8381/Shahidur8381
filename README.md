@@ -1,97 +1,110 @@
 <!-- HERO SECTION -->
 <h1 align="center">🚀 MD Shahidur Rahman (Shawon)</h1>
-<h3 align="center">Full Stack + AI/ML + Blockchain Developer</h3>
+<h3 align="center">Full Stack | AI/ML | Blockchain Developer</h3>
 <p align="center">
-I build complete digital products — from idea to launch — using Web, AI & Web3.
+Building complete digital products — from concept to launch — powered by <b>Web</b>, <b>AI</b> & <b>Blockchain</b>.
 </p>
+
+---
+
+<div align="center">
+
+🎯 <b>“I don’t just build apps — I build experiences that people actually use and love.”</b>
+
+</div>
 
 ---
 
 ## 🌟 Why Work With Me?
 
-✅ I build **end-to-end products**, not just small features  
-✅ I combine **Web + AI + Blockchain in one project**  
-✅ I build **real-world solutions**, not just demo apps  
-✅ I help **non-technical clients** understand & succeed  
-✅ I provide **long-term support & smart improvements**
-
-> ⚡ My goal: Build products that people actually use — and love.
+✅ End-to-end product builder — not just a coder  
+✅ Combine **Web + AI + Blockchain** in a single vision  
+✅ Translate complex tech into business value  
+✅ Long-term support & iterative improvements  
+✅ Friendly to both **startups** and **non-technical founders**
 
 ---
 
-## 💼 What I Can Build For You
+## 💼 What I Build
 
-| Category | Services |
-|---------|----------|
-| 🌐 Web Apps | Full Stack Websites (React, Next.js, Node.js, Django) |
-| 🤖 AI-Powered Apps | Chatbots, AI Integration, Automation, Data Processing |
-| 📊 Data & ML | Machine Learning Models, Data Cleaning, Analytics |
-| 💰 Blockchain | Smart Contracts (Solidity), Crypto Tokens, Memecoins |
-| 🔗 Web3 Platforms | Presale Sites, Wallet Integration, dApps |
-| 📱 Telegram Mini Apps | Crypto tools, community apps, payment-enabled miniapps |
-| 🛠️ Other | API Dev, Dashboard, Admin Panel, SaaS Platforms |
-
----
-
-## 🚀 Tech Stack I Use
-
-**Frontend:** React, Next.js, Tailwind, HTML/CSS/JS  
-**Backend:** Node.js, Express, Django, REST APIs  
-**AI & ML:** Python, Pandas, Scikit-learn, OpenAI API  
-**Blockchain:** Solidity, Web3.js, Smart Contracts, Token Launch  
-**Databases:** MongoDB, PostgreSQL, MySQL  
-**Tools:** Git, Docker, Firebase, AWS, Vercel, Netlify
+| ⚙️ Category | 🚀 Services |
+|-------------|-------------|
+| 🌐 **Web Apps** | Full Stack (React, Next.js, Node.js, Django) |
+| 🤖 **AI-Powered Tools** | Chatbots, AI Agents, Automation, OpenAI Integration |
+| 📊 **Data & ML** | ML Models, Analytics Dashboards, Prediction Systems |
+| 💰 **Blockchain** | Smart Contracts, Tokens, Launchpads, DeFi Apps |
+| 🔗 **Web3 Platforms** | Wallet Integration, Presale Sites, dApps |
+| 💬 **Telegram Mini Apps** | Crypto tools, Payment-enabled MiniApps |
+| 🛠️ **Other** | APIs, Dashboards, SaaS Platforms, Admin Panels |
 
 ---
 
-## ✅ Featured Projects (More on request)
+## 🧠 Tech Stack That Powers My Work
+
+**Frontend:** React · Next.js · Tailwind · HTML/CSS/JS  
+**Backend:** Node.js · Express · Django · REST APIs  
+**AI & ML:** Python · Pandas · Scikit-learn · OpenAI API  
+**Blockchain:** Solidity · Web3.js · Smart Contracts · Token Launch  
+**Databases:** MongoDB · PostgreSQL · MySQL  
+**Tools & Cloud:** Git · Docker · Firebase · AWS · Vercel · Netlify  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,python,solidity,mongodb,postgresql,aws,docker,git" />
+</p>
+
+---
+
+## 🚀 Featured Work
 
 ✅ Full Stack Web Apps with Admin Dashboard  
-✅ AI Chatbot integrated inside website  
-✅ Token + Presale Launchpad with Wallet Connect  
-✅ Telegram Crypto MiniApp  
-✅ Data Analysis & ML Prediction tools  
+✅ AI Chatbots integrated into client websites  
+✅ Token Presale Launchpads with Wallet Connect  
+✅ Telegram MiniApps for Crypto Communities  
+✅ Data Analysis & ML Prediction Tools  
 
-💬 Want to see any of these? **Inbox me!**
+📩 <b>Want to see a demo?</b> DM me — I’ll show live previews.
 
 ---
 
-## 📈 Always Learning & Growing
-I’m actively mastering:
-- Advanced Smart Contracts & DeFi Mechanics
-- AI Agents & LLM Integrations
-- Data Science & Machine Learning (Deep Dive)
-- High-performance Full Stack Architectures
+## 📈 Always Learning
 
-> I don’t just code—I continually evolve.
+🔹 Advanced Smart Contracts & DeFi Mechanisms  
+🔹 AI Agents & LLM Integrations  
+🔹 Deep Learning & Data Science  
+🔹 Scalable Full Stack Architectures  
+
+> The tech world evolves fast — and so do I.
 
 ---
 
 ## 🤝 Let’s Build Something BIG
 
-✅ Startups & Entrepreneurs  
-✅ Businesses upgrading with AI/Web3  
-✅ Developers looking for collaboration  
-✅ Long-term product partnerships
+🚀 Startups & Entrepreneurs  
+⚙️ Businesses upgrading with AI or Web3  
+💡 Developers seeking collaboration  
+🤝 Long-term Product Partnerships  
 
-> If you have an idea, I can turn it into a working product.
+> Have an idea? I’ll make it real.
 
 ---
 
-## 📬 Contact Me
+## 📬 Connect With Me
 
-📩 Fiverr: https://www.fiverr.com/users/ah_hamidf  
-💬 Telegram (Preferred): **@your_telegram_username**  
-🌍 GitHub: **you are already here 😄**
+📩 **Fiverr:** [fiverr.com/users/ah_hamidf](https://www.fiverr.com/users/ah_hamidf)  
+💬 **Telegram (Preferred):** [@your_telegram_username](https://t.me/your_telegram_username)  
+🌍 **GitHub:** *You’re already here 😄*  
 
-🚀 Let’s talk — I reply fast!
+<p align="center">
+  <b>Let’s talk — I reply fast ⚡</b>
+</p>
 
 ---
 
 ## ⭐ Fun Fact
-I love combining technologies that others don’t think to mix.
-**Web + AI + Blockchain = the future.**
 
----
+I love fusing technologies others never think to mix.  
+**Web + AI + Blockchain = The Future.**
 
-### 🔥 If you read this far… let’s build the next big thing together!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7EF&center=true&vCenter=true&width=700&lines=Let's+build+the+next+big+thing+together!+🔥" />
+</p>
